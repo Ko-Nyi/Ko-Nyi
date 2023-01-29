@@ -6,18 +6,18 @@ I’m **Ko Nyi**. My full name is Thar Nyi Phyo 👨‍✈️ I’m a web develo
 )
 
 👨‍💻Programming Language familiar with me are👇 
- 🥇 JavaScript, 
- 🏅 Python
- 🎗 PHP  
- ✨ ML 
- 🎀 Racket
- ✨Ruby
- 🥇 Node(Js+Ts)
- ✨Django
- 🎇Angular 
- 👑HTML
- 🎈 CSS and
- 🎁 MySQL.
+ - JavaScript, 
+ + Python
+ * PHP  
+ + ML 
+ - Racket
+ * Ruby
+ - Node(Js+Ts)
+ * Django
+ + Angular 
+ - HTML
+ * CSS and
+ + MySQL.
 
 ✈ I love travelling as well, even though its been some time since I last travelled.
 
